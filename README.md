@@ -1,0 +1,2 @@
+A quick and dirty test of cross platform text-to-speech in Unity.
+The `SpeakJS.jslib` file in `Assets/Plugins/WebGL` calls either the native JavaScript (SpeechSynthesis API)[https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis] or delegates to the (SpeakJS)[https://github.com/kripken/speak.js/] plugin.
